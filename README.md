@@ -1,5 +1,5 @@
 # Mobile-App-Success-
-Is a Machine Learning module which can predict the rate of the app out of Five.
+It is a Machine Learning module that can predict the rate of the app out of Five.
 
 *This program consists of two main modules to predict  how a specific app will gain success depending on 
 some features which we selected for the prediction process.
@@ -10,16 +10,16 @@ some features which we selected for the prediction process.
   
 ### Brief description about Regression module
 
-- we use some of Regression algorithms to implement module which can predict the rate of the app with
+- we use some of the Regression algorithms to implement module which can predict the rate of the app with
   a high accuracy.
   
   * Regression algorithms we used:
      1. Linear Regression
-     2. Ploynomial Regression
+     2. Polynomial Regression
      
 ### Brief description about Classification module
 
-- we use some of Classification module to implement module which can classifiy a right category for each 
+- we use some of the Classification modules to implement module which can classify the right category for each 
 app.
 
 * Classification algorithms we used:
