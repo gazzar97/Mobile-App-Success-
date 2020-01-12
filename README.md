@@ -4,9 +4,10 @@ It is a Machine Learning module that can predict the rate of the app out of Five
 *This program consists of two main modules to predict  how a specific app will gain success depending on 
 some features which we selected for the prediction process.
 
-*Two modules we used for our program.
-  1.Regression module for continuous variable.
-  2.Classification module for categorical variable.
+- Two modules we used for our program.
+
+    1. Regression module for continuous variable.
+    2. Classification module for categorical variable.
   
 ### Brief description about Regression module
 
